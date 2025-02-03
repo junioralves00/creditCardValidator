@@ -12,7 +12,7 @@ Este projeto contém um validador de números de cartão de crédito utilizando 
 
 1. Clone o repositório:
    ```sh
-   git clone [<Validador cartão de rédito>](https://github.com/junioralves00/creditCardValidator.git)
+   [<Validador cartão de rédito>] git clone (https://github.com/junioralves00/creditCardValidator.git)
 
 2. Acesse a pasta do projeto:
    ```sh
