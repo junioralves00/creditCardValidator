@@ -22,4 +22,4 @@ Este projeto contém um validador de números de cartão de crédito utilizando 
     node index.js   
 4. Insira o número do cartão de crédito que deseja validar:
    ```sh
-   ex: 4539 1488 0343 6467
+   ex: 201400000000009
